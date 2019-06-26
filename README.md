@@ -2,7 +2,7 @@
 A photo and video-sharing social network service App.
 
 
-<h3>Login/Signup Screen :</h3>
+<h3>Login and Registration :</h3>
 
     Steps and Technologies used :
      
@@ -17,7 +17,7 @@ A photo and video-sharing social network service App.
              -Log In and UI Reset
 
 
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2715.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2716.png" width="200">
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2715.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2716.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2733.png" width="200">
 
 
 <h3>User's profile :</h3>
@@ -45,6 +45,3 @@ A photo and video-sharing social network service App.
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
 
-<h3>Logout :</h3>
-
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2733.png" width="200">
