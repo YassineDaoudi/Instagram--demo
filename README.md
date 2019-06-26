@@ -27,6 +27,7 @@ A photo and video-sharing social network service App.
  
          -Custom Tab Bar Controller
          -Present Photo Selector
+         -Grid View vs List View
          
          
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2717.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2718.png" width="200">
@@ -53,6 +54,7 @@ A photo and video-sharing social network service App.
              -Post Cell Details
              -Post Username and Caption
              -Improved Fetch Code Refactor
+             -Handling User Likes
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2721.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2722.png" width="200">
 
