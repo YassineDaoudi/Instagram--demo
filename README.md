@@ -21,4 +21,4 @@ A photo and video-sharing social network service App.
 
 <h3>Shooting with the Camera :</h3>
 
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2723.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2726.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2729.png" width="200">
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2723.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2726.jpg" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2729.png" width="200">
