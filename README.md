@@ -14,3 +14,7 @@ A photo and video-sharing social network service App.
 <h3>Search Feature :</h3>
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2719.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2720.png" width="200">
+
+<h3>Home Feed :</h3>
+
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2721.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2722.png" width="200">
