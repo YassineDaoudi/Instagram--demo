@@ -44,7 +44,7 @@ A photo and video-sharing social network service App.
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2723.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2726.jpg" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2729.png" width="200">
 
 
-<h3>Photo Selection :</h3>
+<h3>Photo Selection and Sharing :</h3>
 
     Steps and Technologies used :
      
@@ -55,9 +55,5 @@ A photo and video-sharing social network service App.
              -Fetch Posts User Profile
              -CustomImageView and Post Ordering Fixes
 
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200">
-
-<h3>Sharing :</h3>
-
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
 
