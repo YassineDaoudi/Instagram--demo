@@ -79,5 +79,5 @@ A photo and video-sharing social network service App.
              -Fetch Posts User Profile
              -CustomImageView and Post Ordering Fixes
 
-<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2737.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
 
