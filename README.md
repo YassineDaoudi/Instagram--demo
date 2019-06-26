@@ -27,3 +27,11 @@ A photo and video-sharing social network service App.
 <h3>Photo Selection :</h3>
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200">
+
+<h3>Sharing :</h3>
+
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
+
+<h3>Logout :</h3>
+
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2733.png" width="200">
