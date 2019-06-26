@@ -31,15 +31,39 @@ A photo and video-sharing social network service App.
          
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2717.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2718.png" width="200">
 
-<h3>Search Feature :</h3>
+<h3>User Search and Follow :</h3>
+
+
+    Steps and Technologies used :
+     
+             -User Search Controller
+             -Search Filtering
+             -Searched User Profile
+             -Following and Unfollowing
+             -Following Users Posts
+             -Manual Automatic Post Refresh
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2719.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2720.png" width="200">
 
 <h3>Home Feed :</h3>
 
+    Steps and Technologies used :
+     
+             -Home Feed Image Caching
+             -Post Cell Details
+             -Post Username and Caption
+             -Improved Fetch Code Refactor
+
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2721.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2722.png" width="200">
 
 <h3>Shooting with the Camera :</h3>
+
+    Steps and Technologies used :
+     
+             -Showing Camera
+             -Capture Photo
+             -Saving Photo with Feedback
+             -Camera Custom Transitions
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2723.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2726.jpg" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2729.png" width="200">
 
