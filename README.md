@@ -81,3 +81,17 @@ A photo and video-sharing social network service App.
 
 <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2730.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2737.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2731.png" width="200"> <img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2732.png" width="200">
 
+<h3>Post Comments :</h3>
+
+    Steps and Technologies used :
+     
+             -Comments Custom Delegation
+             -Comments Input Accessory View
+             -Insert Comments
+             -Fetch Comments
+             -Auto Size Comment Cells
+
+
+<img src="https://github.com/YassineDaoudi/InstagramDemo/blob/master/IMG_2738.png" width="200">
+
+
