@@ -2,7 +2,7 @@
 A photo and video-sharing social network service App.
 
 
-<h3>Login and Registration :</h3>
+<h3>Home Feed Layout :</h3>
 
     Steps and Technologies used :
      
